@@ -8,4 +8,4 @@ print("Tupla de cores:", type(minhaTupla))
 minhaTupla["azul"] = "roxo"
 print("Tupla modificada:", minhaTupla)
 #Acontece um erro ao tentar alterar algo dentro da tupla dessa forma, pois a classe tuple é
-#imutável, impossibilitando qualque mudança. 
+#imutável, impossibilitando qualquer mudança. 
