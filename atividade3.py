@@ -21,7 +21,7 @@ for x in dados.values():
 dados ["endereço"] = "Centro"
 dados ["sexo"]     = "Feminino"
 
-#Chaves e Valores ordenados
+#Chaves e Valores ordenados (um sobre o outro)
 for x in dados:
     print(x +":",dados[x])
 
