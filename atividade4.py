@@ -2,13 +2,13 @@
 #cada dia da semana, tendo como seu valor uma lista com as aulas que você tem
 #nesse dia (sábado e domingo recebem listas vazias, ou você tem aula?).
 
-listaIOT = {"IoT","Arduino"}
-listaModDados = {"Modelagem de Dados"}
-listaLingProg = {"Linguagem de Programação","Python"}
-listaVazia1   = { }
-listaDesen    = {"Desenvolvimento Front-End"}
-listaVazia2   = { }
-listaVazia3   = { }
+listaIOT = ("IoT","Arduino")
+listaModDados = ("Modelagem de Dados")
+listaLingProg = ("Linguagem de Programação","Python")
+listaVazia1   = () 
+listaDesen    = ("Desenvolvimento Front-End")
+listaVazia2   = ()
+listaVazia3   = ()
 
 semana = {
     "segunda-feira" : listaIOT,
